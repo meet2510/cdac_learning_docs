@@ -1,0 +1,27 @@
+Assignment Submission Process:
+1. Copy assignment pdf questions into a text file named as your group_rollno_name_module_assignname.txt
+	e.g. D1_12345_Nilesh_DBT_Assign02.txt
+	GIT Commit & push changes in your DBT sub-group "Assignments" repository with commit message "Assign Name - Initial commit" e.g. "Assign02 - Initial Commit"
+2. Try each query on your computer, verify result and if found correct; copy query and its result in this file under the question text. Immediately GIT commit the solution with commit message "Assign Name_Question Number" e.g. "Assign02_Sales_02".
+3. Push the changes on GitLab repository.
+4. Now update completion status on Sunbeam LMS as given in template below before submission deadline.
+	Copy below code in "online text" while submitting assignment and
+	do changes as per assignment requirements & your completion status.
+
+========================================================================
+Assignment Name: DBT-Assign02
+
+Completion (Self-declaration): 45 out of 46
+
+Assignment GitLab Link (File or Folder): https://gitlab.com/...
+
+Last Commit SHA ID: 81c0e4b5b2799707dd9c03e2481fcaf848520db6
+
+=========================================================================
+
+Submission Deadlines (Push on your repository)
+1. Assign 02: 11-May-2021 7:00 PM.
+2. Assign 03: 11-May-2021 7:00 PM.
+3. Assign 04: 12-May-2021 7:00 PM.
+	* Group Functions (SUM, MAX, MIN, AVG, COUNT) and NULL related functions will be taught tomorrow (12-May).
+	
